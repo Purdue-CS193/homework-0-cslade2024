@@ -7,6 +7,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+# Christian Slade's First CS193 Homework
+- I love how they are preparing us to have a successful future in Computer Science.
+- I enjoy all the jokes that are put into the slideshows/presentations.
+- I like the detailed demonstrations given in class.
+- I enjoy the homework, as it is fun and allows me to grow as a coder.
+
 ```markdown
 Syntax highlighted code block
 
